@@ -1,0 +1,28 @@
+_repo: Reproduction-of-Copyrighted-Works-By-Educators-and-Librarians_4318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - Library of Congress. Register of Copyrights
+    - United States. Copyright Office
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copyright -- United States'
+- !lcsh 'Copyright infringement -- United States'
+- !lcsh 'Fair use (Copyright) -- United States'
+- !lcsh 'Photocopying services in libraries -- United States'
+- !lcc 'KF'
+- GITenberg
+title: Reproduction of Copyrighted Works By Educators and Librarians
+url: http://www.gutenberg.org/ebooks/4318
